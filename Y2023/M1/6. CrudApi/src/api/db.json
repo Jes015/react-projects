@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "nickname": "Joe yeiee",
+      "email": "Joyei@gmail.comaaa",
+      "password": "passwordaaa",
+      "id": "5e07f33a-65d6-414f-9dd7-e356d4b1ef2a"
+    },
+    {
+      "nickname": "Joe yeiee",
+      "email": "Joyei@gmail.comaaa",
+      "password": "passwordaaa",
+      "id": "5e07f33a-65d6-414f-9dd7-88393"
+    },
+    {
+      "nickname": "Heidy Montes",
+      "password": "hiedy123",
+      "email": "heidy123@gmail.com",
+      "id": "e94ce7e9-f397-4e78-9923-0e1e5677cd3f"
+    }
+  ]
+}
