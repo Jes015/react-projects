@@ -1,0 +1,8 @@
+{
+    "Paises": ["Colombia", "Argentina", "Chile", "Peru"],
+    "Departamentos": [
+        { "id": "Colombia", "list": ["Cordoba", "Chocó", "Amazonas", "Antioquia"] },
+        { "id": "Argentina", "list": ["Cordoba", "Atlanta", "Geome", "Nursia"] }
+    ],
+    "Ciudades": [{ "id": "Cordoba", "list": ["Monteria", "Pueblo nuevo", "Planeta rica", "Los limones", "Buena vista"]}]
+}
