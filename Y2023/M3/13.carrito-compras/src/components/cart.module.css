@@ -1,0 +1,27 @@
+.cart {
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: var(--background-main);
+    height: 100%;
+    width: 300px;
+    overflow-y: auto;
+}
+
+.cart__checkbox {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+
+.cart__checkbox svg {
+    fill: white;
+    transform: scale(0.5);
+    cursor: pointer;
+}
+
+.cart__checkbox ~ input:checked ~ div {
+    display: block;
+}

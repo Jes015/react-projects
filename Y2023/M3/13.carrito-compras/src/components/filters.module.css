@@ -1,0 +1,10 @@
+.filters {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.filters__rangeValue {
+    display: inline-block;
+    width: 40px;
+}
